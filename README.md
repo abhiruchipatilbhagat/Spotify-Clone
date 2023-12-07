@@ -1,2 +1,2 @@
 # Spotify-Clone
-bla bla bla
+A music player for folklore album by Taylor Swift
